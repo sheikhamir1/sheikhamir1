@@ -15,11 +15,11 @@ I've seen many awesome repos on GitHub, and while mine might be simple right now
 
 
 
-- 👋 Hi, I’m @sheikhamir1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React js
+- 💞️ I’m looking to collaborate on some real life project
+
 
 <!---
 sheikhamir1/sheikhamir1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
