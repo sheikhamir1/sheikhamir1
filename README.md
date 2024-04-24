@@ -6,7 +6,6 @@ Anyway, I'm currently preparing to become a full-stack web developer. I've learn
 
 After that, I began learning and working with React.js, a front-end framework, and I'm still learning and working on projects with it. In the future insha-allah, I plan to explore backend development and databases.
 
-In addition to my tech journey, I'm a fitness trainer and content creator. I also do research in Islamic sciences, like  hadith , and jurisprudence , I also dived into the four legal schools of thought in Islam with a scholarly approach of extensive research work.
 
 I've seen many awesome repos on GitHub, and while mine might be simple right now, I'm on a journey where, at some point, I hope my repos will look more professional. It all depends on hard work! 😊
 
