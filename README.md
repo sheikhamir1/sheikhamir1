@@ -1,26 +1,37 @@
+Amir Sohail Sheikh
 
+Full Stack Web Developer | Cybersecurity Enthusiast | QA Tester
 
-Hello, my name is Sheikh Amir. I'm from Kolkata, India. I'm a college student with a passion for programming and development. I also love fitness! 😉 I don't come from a background where I knew everything about coding and programming from the beginning. It's just been a short while since I started, and when I did, I couldn't help but wonder why I didn't start earlier! 😅
+📧 Amirsohail898198@gmail.com | 📞 (+91) 8017028827
+🔗 LinkedIn | 🐦 Twitter | 🖥️ Portfolio
 
-Anyway, I'm currently preparing to become a full-stack web developer. I've learned many things, but there's still so much more to explore and learn. I've studied HTML, CSS, and JavaScript, and I've even completed some projects that you can find in my GitHub repository. Later, I dived into CSS frameworks like Bootstrap, Material UI, Bulma, Tailwind, and Flowbite.
+📧 [Amirsohail898198@gmail.com](mailto:Amirsohail898198@gmail.com) | 📞 (+91) 8017028827  
+🔗 [LinkedIn](https://www.linkedin.com/in/sheikhamir1) | 🖥️ [Portfolio]([http://yourportfolio.com](https://github.com/sheikhamir1/Portfolio))
 
-After that, I began learning and working with React.js, a front-end framework, and I'm still learning and working on projects with it. In the future insha-allah, I plan to explore backend development and databases.
+---
 
+I am a passionate Full Stack Web Developer with experience in building dynamic, user-centric applications. My expertise spans the MERN stack (MongoDB, Express.js, React.js, Node.js), and I am skilled in using Tailwind CSS, Cypress for testing, and various modern web technologies.
 
-I've seen many awesome repos on GitHub, and while mine might be simple right now, I'm on a journey where, at some point, I hope my repos will look more professional. It all depends on hard work! 😊
+Skills:
 
+Full Stack Development: HTML, CSS, JavaScript (ES6), Tailwind CSS, MERN Stack (MongoDB, Express.js, React, Node.js)
+Programming Languages: Python, JavaScript
+Cybersecurity: Ethical Hacking, Web Penetration Testing, OWASP Top 10, Burp Suite
+Quality Assurance: Cypress (End-to-End Testing)
+Education:
 
+Bachelor's Degree from Indira Gandhi Open University (Expected Graduation: February 2025)
+Certifications:
 
+JavaScript Certification – Udemy
+MongoDB, Node.js, and Frontend Certifications – Simplilearn
+EHE Certification – EC-Council
+Ethical Hacking Training – Master Project Academy
+Cybersecurity Training – Cybrary
+Experience & Projects:
 
-
-
-
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on some real life project
-
-
-<!---
-sheikhamir1/sheikhamir1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Freelance Web Developer: Developed a business website and admin panel using React.js and Tailwind CSS. Implemented user and admin features with a focus on a responsive design and functional UI.
+Intern | Unified Mentor – Gram Panchayat E-Services: Digitized citizen services with role-based authentication and dashboards using React.js and Firebase.
+Intern | Unified Mentor – Soil Farming Agency: Built a MERN stack application for managing soil and crop distributor details, featuring JWT authentication and RESTful APIs.
+Intern | Unified Mentor – SecureX: Created a document management system allowing secure storage and sharing of government documents, with a focus on user-friendly interfaces and secure document handling.
+I am always eager to learn new technologies and tackle challenging problems. Feel free to explore my repositories and connect with me for collaboration opportunities!
