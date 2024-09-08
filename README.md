@@ -11,13 +11,13 @@ I am a passionate Full Stack Web Developer with experience in building dynamic, 
 
 Skills:
 
-Full Stack Development: HTML, CSS, JavaScript (ES6), Tailwind CSS, MERN Stack (MongoDB, Express.js, React, Node.js)
-Programming Languages: Python, JavaScript
-Cybersecurity: Ethical Hacking, Web Penetration Testing, OWASP Top 10, Burp Suite
-Quality Assurance: Cypress (End-to-End Testing)
-Education:
+Full Stack Development: HTML, CSS, JavaScript (ES6), Tailwind CSS, MERN Stack (MongoDB, Express.js, React, Node.js)  
+Programming Languages: Python, JavaScript  
+Cybersecurity: Ethical Hacking, Web Penetration Testing, OWASP Top 10, Burp Suite  
+Quality Assurance: Cypress (End-to-End Testing)  
 
-Bachelor's Degree from Indira Gandhi Open University (Expected Graduation: February 2025)
+Education:
+Bachelor's Degree from Indira Gandhi Open University (Expected Graduation: February 2025)  
 Certifications:
 
 JavaScript Certification – Udemy
