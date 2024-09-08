@@ -2,9 +2,6 @@ Amir Sohail Sheikh
 
 Full Stack Web Developer | Cybersecurity Enthusiast | QA Tester
 
-📧 Amirsohail898198@gmail.com | 📞 (+91) 8017028827
-🔗 LinkedIn | 🐦 Twitter | 🖥️ Portfolio
-
 📧 [Amirsohail898198@gmail.com](mailto:Amirsohail898198@gmail.com) | 📞 (+91) 8017028827  
 🔗 [LinkedIn](https://www.linkedin.com/in/sheikhamir1) | 🖥️ [Portfolio]([http://yourportfolio.com](https://github.com/sheikhamir1/Portfolio))
 
